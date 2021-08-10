@@ -1,2 +1,2 @@
 # Trap
-Template de função em shell: TRAP
+Template de função em shell: **TRAP**
